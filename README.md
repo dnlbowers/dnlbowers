@@ -49,8 +49,8 @@ Having just finished building my [portfolio site](https://dev-bowers.com) I am n
 ![Github Trophies](https://github-trophies.vercel.app/?username=dnlbowers&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![visitor Count](https://visitcount.itsvg.in/api?id=dnlbowers&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+[![](https://visitcount.itsvg.in/api?id=dnlbowers&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 <!--
 **dnlbowers/dnlbowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
