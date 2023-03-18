@@ -7,28 +7,28 @@ Having just finished building my [portfolio site](https://dev-bowers.com) I am n
 
 ### Vapor Town
 
-    * [code repository](https://github.com/dnlbowers/Vape-Store)
-    * [live site](https://vaportown.dev-bowers.com/)
+* [code repository](https://github.com/dnlbowers/Vape-Store)
+* [live site](https://vaportown.dev-bowers.com/)
 
 ### Jobs-a-Gooden
 
-    * [code repository](https://github.com/dnlbowers/jobs-a-gooden)
-    * [live site](https://jag.dev-bowers.com/)
+  * [code repository](https://github.com/dnlbowers/jobs-a-gooden)
+  * [live site](https://jag.dev-bowers.com/)
 
 ### Battleships
 
-    * [code repository](https://github.com/dnlbowers/battleships)
-    * [live site](https://battleships.dev-bowers.com/)
+  * [code repository](https://github.com/dnlbowers/battleships)
+  * [live site](https://battleships.dev-bowers.com/)
 
 ### Blackjack
 
-    * [code repository](https://github.com/dnlbowers/blackjack)
-    * [live site](https://blackjack.dev-bowers.com/)
+  * [code repository](https://github.com/dnlbowers/blackjack)
+  * [live site](https://blackjack.dev-bowers.com/)
 
 ### Modern Buddhism
 
-    * [code repository](https://github.com/dnlbowers/modern-buddhism)
-    * [live site](https://pp1.dev-bowers.com/)
+  * [code repository](https://github.com/dnlbowers/modern-buddhism)
+  * [live site](https://pp1.dev-bowers.com/)
 
 ## 🌐Socials
 
