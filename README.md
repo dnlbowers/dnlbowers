@@ -1,5 +1,7 @@
 # 💫About Me:
 
+[![](https://visitcount.itsvg.in/api?id=dnlbowers&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 I am currently working on Learning Angular after having completed an EQF level 5 diploma in full-stack software development.
 Having just finished building my [portfolio site](https://dev-bowers.com) I am now moving on to improving my skills with Angular and Django Rest framework.
 
@@ -49,7 +51,7 @@ Having just finished building my [portfolio site](https://dev-bowers.com) I am n
 ![Github Trophies](https://github-trophies.vercel.app/?username=dnlbowers&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dnlbowers&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+
 
 <!--
 **dnlbowers/dnlbowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
