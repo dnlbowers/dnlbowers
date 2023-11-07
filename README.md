@@ -6,8 +6,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=dnlbowers&label=Profile%20Views%20since%2020.03.2023&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-I am currently working on Learning Angular after having completed an EQF level 5 diploma in full-stack software development.
-Having just finished building my [portfolio site](https://dev-bowers.com) I am now moving on to improving my skills with Angular and Django Rest framework.
+Pro full-stack developer working with Angular and .Net.
+You can find my full [portfolio site](https://dev-bowers.com) with more details. Meanwhile, here is a taster of my work for easy viewing.
 
 ## Portfolio Projects
 
