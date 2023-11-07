@@ -7,7 +7,10 @@
 [![](https://visitcount.itsvg.in/api?id=dnlbowers&label=Profile%20Views%20since%2020.03.2023&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 Pro full-stack developer working with Angular and .Net.
-You can find my full [portfolio site](https://dev-bowers.com) with more details. Meanwhile, here is a taster of my work for easy viewing.
+  
+You can find more details via my full [portfolio site](https://dev-bowers.com).  
+  
+Meanwhile, here is a taster of my work for easy viewing.
 
 ## Portfolio Projects
 
